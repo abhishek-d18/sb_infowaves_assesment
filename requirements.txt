@@ -1,0 +1,14 @@
+asgiref==3.8.1
+chardet==5.2.0
+dateparser==1.2.1
+Django==5.2
+django-csvimport==3.2
+djangorestframework==3.16.0
+psycopg2==2.9.10
+python-dateutil==2.9.0.post0
+pytz==2025.2
+regex==2024.11.6
+six==1.17.0
+sqlparse==0.5.3
+tzdata==2025.2
+tzlocal==5.3.1
